@@ -46,7 +46,8 @@ A Tableau dashboard that analyzes employee attrition trends by department, gende
 
 ## 🖼️ Preview
 
-![Dashboard Preview](images/dashboard-preview.png)
+![Dashboard Preview](![Screenshot 2025-07-06 165855](https://github.com/user-attachments/assets/19f3b306-3a89-45f1-b278-4d452370d575)
+)
 
 ---
 
